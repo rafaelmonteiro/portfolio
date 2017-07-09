@@ -1,13 +1,13 @@
 ## Rafael Monteiro's Portifolio
 
----?image=assets/agence.jpg
----?image=assets/fama-investimentos.jpg
----?image=assets/grand-brasil.jpg
----?image=assets/imovel-cia.jpg
----?image=assets/ipam.jpg
----?image=assets/like-filmes.jpg
----?image=assets/perfin-investimentos.jpg
----?image=assets/santar.jpg
----?image=assets/sapp.jpg
----?image=assets/sparta-fundos.jpg
----?image=assets/vagasnet.jpg
+---?image=assets/agence.jpg&size=contain
+---?image=assets/fama-investimentos.jpg&size=contain
+---?image=assets/grand-brasil.jpg&size=contain
+---?image=assets/imovel-cia.jpg&size=contain
+---?image=assets/ipam.jpg&size=contain
+---?image=assets/like-filmes.jpg&size=contain
+---?image=assets/perfin-investimentos.jpg&size=contain
+---?image=assets/santar.jpg&size=contain
+---?image=assets/sapp.jpg&size=contain
+---?image=assets/sparta-fundos.jpg&size=contain
+---?image=assets/vagasnet.jpg&size=contain
